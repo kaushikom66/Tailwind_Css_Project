@@ -1,0 +1,16 @@
+vite/javascript/tailwind css/react
+
+framework-------------->React
+varient---------------->javascript
+
+
+after downloading it 
+1)open in vscode(or other IDE)
+2)open new terminal
+   in terminal-----> write commad to nstall vite in your project---------------> "npm install vite@latest"
+3)after this run this project using command---------->"npm run dev"
+this will intoduce you with your localhost.
+
+
+
+                                                                                     (OM KAUSHIK)
