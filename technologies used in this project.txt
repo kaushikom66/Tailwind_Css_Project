@@ -1,0 +1,4 @@
+vite/javascript/tailwind css/react
+
+framework-------------->React
+varient---------------->javascript
